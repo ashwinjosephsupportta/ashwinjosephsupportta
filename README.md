@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashwin Joseph!
 
-<!--
-**ashwinjosephsupportta/ashwinjosephsupportta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MERN Stack Developer** passionate about creating efficient and scalable web applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently working on Rent-O-Rent camera rental app backend
+- 🌱 Learning **NestJS** and advanced **MongoDB**
+- 💬 Ask me about **Node.js**, **Express.js**, **JWT**, and **Razorpay integration**
+- 📫 Reach me at: [ashwinjoseph03@gmail.com](mailto:ashwinjoseph03@gmail.com)
+- 🌐 Portfolio: [portfolio-2-one-zeta.vercel.app](https://portfolio-2-one-zeta.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Node.js` • `Express.js` • `MongoDB` • `React.js` • `TypeScript` • `Razorpay` • `JWT`
+
+### 🧩 GitHub Stats
+![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinjoseph03&show_icons=true&theme=tokyonight)
