@@ -11,6 +11,3 @@
 
 ### 🛠️ Tech Stack
 `Node.js` • `Express.js` • `MongoDB` • `React.js` • `TypeScript` • `Razorpay` • `JWT`
-
-### 🧩 GitHub Stats
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinjoseph03&show_icons=true&theme=tokyonight)
